@@ -70,7 +70,7 @@ A Software Developer from Antalya/Turkey
 [flutter]: https://www.w3schools.com/css/
 [vsCode]: https://www.java.com/tr/download/help/whatis_java.html
 [git]: https://docs.microsoft.com/en-us/dotnet/csharp/
-[android]: https://www.android.com/
+[android]: https://www.android.com/intl/tr_tr/
 [github]: https://github.com/OguzhanGoksoy
 [python]: https://www.python.org/
 [ios]: https://www.w3.org/html/
