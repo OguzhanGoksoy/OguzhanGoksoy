@@ -16,5 +16,5 @@ A Software Developer from Antalya/Turkey
 📫 How to reach me oguzhangksy@gmail.com
 
 
-  javascript csharp react material-ui git bootstrap css3 html5 linux 
+![alt asasas](https://www.google.com/search?client=firefox-b-d&q=translate)
 
