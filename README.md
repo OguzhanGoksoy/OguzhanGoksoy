@@ -74,5 +74,5 @@ A Software Developer from Antalya/Turkey
 [github]: https://github.com/OguzhanGoksoy
 [python]: https://www.python.org/
 [ios]: https://www.w3.org/html/
-[xd]: https://www.w3.org/html/
+[xd]: https://www.linux.org/
 [sql]: https://www.microsoft.com/tr-tr/sql-server
