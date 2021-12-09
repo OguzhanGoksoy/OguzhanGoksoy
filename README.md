@@ -47,7 +47,14 @@ A Software Developer from Antalya/Turkey
 ## 👩‍💻📱 Tools:
 [<img align="left" alt="Adobe XD" width="26px" src="https://camo.githubusercontent.com/9f1816fe8f44878d77803324ce8e3e1c4d2afc4e3f167b237e93848d3597d4fc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f3130323470782d56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672e706e67" />][vicual]
 
-[<img align="left" alt="Adobe XD" width="35px" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" />][sql]
+[<img align="left" alt="Adobe XD" width="35px" src="https://camo.githubusercontent.com/9197204cb5fe8007252fd5b2b6cc47b9c4318e16836fe645eccd35941b9ecb9c/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d616e642d6272616e64732f3531322f39315f446973636f72645f6c6f676f5f6c6f676f732d3531322e706e67" />][sql]
+
+[<img align="left" alt="Adobe XD" width="35px" src="https://camo.githubusercontent.com/73fdb461f704939668ec688c0e78b801cd5dd742c77e19b0bcc4284be5137158/68747470733a2f2f63646e2e6272616e64666f6c6465722e696f2f35483434324f33572f61732f706c3534366a2d376c65387a6b2d346e7a7a73312f536c61636b5f4d61726b5f5765622e706e67" />][sql]
+
+[<img align="left" alt="Adobe XD" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />][sql]
+
+[<img align="left" alt="Adobe XD" width="35px" src="https://trello.com/en" />][sql]
+
 
 
 
@@ -81,5 +88,5 @@ A Software Developer from Antalya/Turkey
 [xd]: https://www.linux.org/
 [sql]: https://www.microsoft.com/tr-tr/sql-server 
 [sqllit]: https://www.sqlite.org/
-[vicual]: https://www.sqlite.org/
+[vicual]: https://code.visualstudio.com/
 
