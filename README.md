@@ -69,7 +69,7 @@ A Software Developer from Antalya/Turkey
 [vsCode]: https://www.java.com/tr/download/help/whatis_java.html
 [git]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [android]: https://www.android.com/
-[github]: https://github.com/IbrahimTalha0
+[github]: https://github.com/OguzhanGoksoy
 [python]: https://www.python.org/
 [ios]: https://www.apple.com/ios/ios-14/
 [xd]: https://www.adobe.com/products/xd.html
