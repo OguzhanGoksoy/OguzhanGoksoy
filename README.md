@@ -60,12 +60,12 @@ A Software Developer from Antalya/Turkey
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/ibrahim_talha_demir
+[instagram]: https://www.instagram.com/oguzhan_goksoy
 [bionluk]: https://stackoverflow.com/users/17634212
-[linkedin]: https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/
+[linkedin]: https://www.linkedin.com/in/
 [medium]: https://demiribrahimtalha.medium.com/
-[gmail]: mailto:demiribrahimtalha@gmail.com
-[flutter]: https://flutter.dev/
+[gmail]: mailto:oguzhangksy@gmail.com
+[flutter]: https://flutter.dev/asc
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [android]: https://www.android.com/
