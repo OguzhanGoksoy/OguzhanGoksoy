@@ -4,7 +4,7 @@ A Software Developer from Antalya/Turkey
 
 
 
-🌱 I’m currently learning  C++ , Java , C# , Python etc.
+🌱 I’m currently learning  C++ , Java , C# , Python , Javascript  etc.
 
 
 
