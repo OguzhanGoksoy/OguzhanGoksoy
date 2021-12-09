@@ -8,7 +8,7 @@ A Software Developer from Antalya/Turkey
 
 
 
-📝 My personal page 
+📝 My personal page https://www.linkedin.com/in/oguzhan-goksoy-616512228/
 
 
 
@@ -80,7 +80,7 @@ A Software Developer from Antalya/Turkey
 
 [instagram]: https://www.instagram.com/oguzhan_goksoy
 [bionluk]: https://stackoverflow.com/users/17634212
-[linkedin]: https://www.linkedin.com/in/
+[linkedin]: https://www.linkedin.com/in/oguzhan-goksoy-616512228/
 [medium]: https://demiribrahimtalha.medium.com/
 [gmail]: mailto:oguzhangksy@gmail.com
 [flutter]: https://www.w3schools.com/css/
