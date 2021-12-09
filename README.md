@@ -39,7 +39,7 @@ A Software Developer from Antalya/Turkey
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
 [<img align="left" alt="Adobe XD" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][xd]
-[<img align="left" alt="Adobe XD" width="35px" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" />][xd]
+[<img align="left" alt="Adobe XD" width="35px" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" />][sql]
 
 <br />
 
@@ -73,5 +73,6 @@ A Software Developer from Antalya/Turkey
 [android]: https://www.android.com/
 [github]: https://github.com/OguzhanGoksoy
 [python]: https://www.python.org/
-[ios]: https://www.apple.com/ios/ios-14/
-[xd]: https://www.adobe.com/products/xd.html
+[ios]: https://www.w3.org/html/
+[xd]: https://www.w3.org/html/
+[sql]: https://www.microsoft.com/tr-tr/sql-server
