@@ -67,7 +67,7 @@ A Software Developer from Antalya/Turkey
 [gmail]: mailto:oguzhangksy@gmail.com
 [flutter]: https://flutter.dev/asc
 [vsCode]: https://www.java.com/tr/download/help/whatis_java.html
-[git]: https://git-scm.com/
+[git]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [android]: https://www.android.com/
 [github]: https://github.com/IbrahimTalha0
 [python]: https://www.python.org/
