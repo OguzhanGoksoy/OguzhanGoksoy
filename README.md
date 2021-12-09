@@ -65,7 +65,7 @@ A Software Developer from Antalya/Turkey
 [linkedin]: https://www.linkedin.com/in/
 [medium]: https://demiribrahimtalha.medium.com/
 [gmail]: mailto:oguzhangksy@gmail.com
-[flutter]: https://flutter.dev/asc
+[flutter]: https://www.w3schools.com/css/
 [vsCode]: https://www.java.com/tr/download/help/whatis_java.html
 [git]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [android]: https://www.android.com/
