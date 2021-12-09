@@ -66,7 +66,7 @@ A Software Developer from Antalya/Turkey
 [medium]: https://demiribrahimtalha.medium.com/
 [gmail]: mailto:oguzhangksy@gmail.com
 [flutter]: https://flutter.dev/asc
-[vsCode]: https://code.visualstudio.com/
+[vsCode]: https://www.java.com/tr/download/help/whatis_java.html
 [git]: https://git-scm.com/
 [android]: https://www.android.com/
 [github]: https://github.com/IbrahimTalha0
