@@ -40,7 +40,7 @@ A Software Developer from Antalya/Turkey
 
 <br>
 <br>
-<br>
+
 
 [<img align="left" alt="Android" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
 [<img align="left" alt="Adobe XD" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][xd]
