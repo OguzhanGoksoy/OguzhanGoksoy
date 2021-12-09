@@ -28,7 +28,7 @@ A Software Developer from Antalya/Turkey
 
 <br />
 
-### 🔧 Languages and Tools:
+### 🔧 Languages and Technologies:
 
 [<img align="left" alt="Visual Studio Code" width="60px" src="https://www.iienstitu.com/uploads/enstitu-blog-foto-07/java-web-1_w1145_h572_op.png" />][vsCode]
 [<img align="left" alt="Git" width="26px" src="https://camo.githubusercontent.com/e5f1cbf59a8752f8a31ba28ea3b788daf4c188a84870865acfc16c5567bfd5ce/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f432f632d73686172702d632d6c6f676f2d303246313737313442412d7365656b6c6f676f2e636f6d2e706e67" />][git]
