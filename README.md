@@ -60,7 +60,7 @@ I'm a Software Developer from Turkey
 
 [<img align="left" alt="Adobe XD" width="35px" src="https://camo.githubusercontent.com/5da402096f63fafffd2d8afacdecf0029aa989c899149f9836c135ab3d130a6d/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f7472656c6c6f2d362d3536393339352e706e67" />][iiii]
 
-[<img align="left" alt="Adobe XD" width="35px" src="https://www.vincenzoracca.com/images/spring.png" />][iiiii]
+[<img align="left" alt="Adobe XD" width="45px" src="https://www.vincenzoracca.com/images/spring.png" />][iiiii]
 
 
 
