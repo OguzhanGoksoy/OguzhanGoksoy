@@ -1,6 +1,6 @@
 Hi 👋, I'm Oğuzhan
 
-A Software Developer from Antalya/Turkey
+A Software Developer from Turkey
 
 
 
