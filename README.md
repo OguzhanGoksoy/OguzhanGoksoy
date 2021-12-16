@@ -53,7 +53,7 @@ I'm a Software Developer from Turkey
 
 <br>
 
-[<img align="left" alt="Adobe XD" width="40px" src="https://www.logo.wine/a/logo/C%2B%2B/C%2B%2B-Logo.wine.svg" />][cp]
+[<img align="left" alt="Adobe XD" width="60px" src="https://www.logo.wine/a/logo/C%2B%2B/C%2B%2B-Logo.wine.svg" />][cp]
 
 <br />
 
@@ -72,7 +72,7 @@ I'm a Software Developer from Turkey
 
 [<img align="left" alt="Adobe XD" width="65px" src="https://robertkaramagi.files.wordpress.com/2018/10/android-studio1.jpg?w=300&h=225" />][iiiiii]
 
-[<img align="left" alt="Adobe XD" width="65px" src="https://www.apmmusic.com/sites/default/files/styles/blog/public/images/blog/blog_unity.jpg?itok=hlW02Twf" />][iiiiiii]
+[<img align="left" alt="Adobe XD" width="55px" src="https://www.apmmusic.com/sites/default/files/styles/blog/public/images/blog/blog_unity.jpg?itok=hlW02Twf" />][iiiiiii]
 
 
 
