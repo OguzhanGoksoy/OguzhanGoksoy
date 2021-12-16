@@ -56,6 +56,7 @@ I'm a Software Developer from Turkey
 [<img align="left" alt="Adobe XD" width="40px" src="https://www.logo.wine/a/logo/C%2B%2B/C%2B%2B-Logo.wine.svg" />][cp]
 
 <br />
+
 ## 👩‍💻📱 Tools:
 [<img align="left" alt="Adobe XD" width="26px" src="https://camo.githubusercontent.com/9f1816fe8f44878d77803324ce8e3e1c4d2afc4e3f167b237e93848d3597d4fc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f3130323470782d56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672e706e67" />][vicual]
 
