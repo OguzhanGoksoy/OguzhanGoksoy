@@ -47,7 +47,7 @@ I'm a Software Developer from Turkey
 [<img align="left" alt="Adobe XD" width="24px" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" />][sql]
 [<img align="left" alt="Adobe XD" width="24px" src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" />][sqllit]
 [<img align="left" alt="Adobe XD" width="40px" src="https://logowik.com/content/uploads/images/php.jpg" />][php]
-[<img align="left" alt="Adobe XD" width="24px" src="https://image.spreadshirtmedia.net/image-server/v1/designs/178240750,width=300,height=300,backgroundColor=ffffff/penguin.jpg" />][armbian]
+[<img align="left" alt="Adobe XD" width="40px" src="https://image.spreadshirtmedia.net/image-server/v1/designs/178240750,width=300,height=300,backgroundColor=ffffff/penguin.jpg" />][armbian]
 
 <br />
 
@@ -74,7 +74,7 @@ I'm a Software Developer from Turkey
 
 [<img align="left" alt="Adobe XD" width="55px" src="https://www.apmmusic.com/sites/default/files/styles/blog/public/images/blog/blog_unity.jpg?itok=hlW02Twf" />][iiiiiii]
 
-[<img align="left" alt="Adobe XD" width="55px" src="https://play-lh.googleusercontent.com/s-V-4IgEcMbk1ZpEYVzwxW9_wUP-W5hPlG31vlKIPyjPzVkHb9FaqLLxLkLfMwWXnZ0=s180" />][iiiiiiii]
+[<img align="left" alt="Adobe XD" width="26px" src="https://play-lh.googleusercontent.com/s-V-4IgEcMbk1ZpEYVzwxW9_wUP-W5hPlG31vlKIPyjPzVkHb9FaqLLxLkLfMwWXnZ0=s180" />][iiiiiiii]
 
 
 
