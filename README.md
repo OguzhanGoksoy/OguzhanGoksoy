@@ -27,6 +27,8 @@ I'm a Software Developer from Turkey
 [<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
 
 <br />
+<br>
+<br />
 
 ### 🔧 Languages and Technologies:
 [<img align="left" alt="Visual Studio Code" width="75px" src="https://i0.wp.com/thequill.in/wp-content/uploads/2020/03/Java.png?fit=400%2C197&ssl=1" />][vsCode]
