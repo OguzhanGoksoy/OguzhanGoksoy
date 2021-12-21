@@ -50,7 +50,7 @@ I'm a Software Developer from Turkey
 [<img align="left" alt="Adobe XD" width="40px" src="https://image.spreadshirtmedia.net/image-server/v1/designs/178240750,width=300,height=300,backgroundColor=ffffff/penguin.jpg" />][armbian]
 <br />
 <br>
-[<img align="left" alt="Adobe XD" width="60px" src="https://www.epikod.com/wp-content/uploads/2021/03/cpp.png" />][cp]
+[<img align="left" alt="Adobe XD" width="30px" src="https://www.epikod.com/wp-content/uploads/2021/03/cpp.png" />][cp]
 <br />
 
 ## 👩‍💻📱 Tools:
