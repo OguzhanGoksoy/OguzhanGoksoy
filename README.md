@@ -46,7 +46,7 @@ I'm a Software Developer from Turkey
 [<img align="left" alt="Adobe XD" width="50px" src="https://i0.wp.com/teknohisar.com/wp-content/uploads/2017/10/database.png?fit=600%2C315&ssl=1" />][sql]
 [<img align="left" alt="Adobe XD" width="24px" src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" />][sqllit]
 [<img align="left" alt="Adobe XD" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" />][php]
-[<img align="left" alt="Adobe XD" width="40px" src="https://avatars.githubusercontent.com/u/15922037?s=280&v=4" />][armbian]
+[<img align="left" alt="Adobe XD" width="40px" src="https://www.armbian.com/wp-content/uploads/2018/03/logo2.png" />][armbian]
 <br />
 <br>
 [<img align="left" alt="Adobe XD" width="30px" src="https://www.epikod.com/wp-content/uploads/2021/03/cpp.png" />][cp]
