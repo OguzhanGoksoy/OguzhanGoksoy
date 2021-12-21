@@ -52,7 +52,6 @@ I'm a Software Developer from Turkey
 [<img align="left" alt="Adobe XD" width="30px" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" />][cp]
 <br />
 <br>
-
 <br />
 
 ## 👩‍💻📱 Tools:
