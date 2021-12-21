@@ -49,7 +49,7 @@ I'm a Software Developer from Turkey
 <br />
 <br>
 [<img align="left" alt="Adobe XD" width="60px" src="https://www.armbian.com/wp-content/uploads/2018/03/logo2.png" />][armbian]
-[<img align="left" alt="Adobe XD" width="30px" src="https://www.epikod.com/wp-content/uploads/2021/03/cpp.png" />][cp]
+[<img align="left" alt="Adobe XD" width="30px" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" />][cp]
 <br />
 
 ## 👩‍💻📱 Tools:
