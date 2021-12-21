@@ -61,7 +61,7 @@ I'm a Software Developer from Turkey
 
 [<img align="left" alt="Adobe XD" width="35px" src="https://camo.githubusercontent.com/9197204cb5fe8007252fd5b2b6cc47b9c4318e16836fe645eccd35941b9ecb9c/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d616e642d6272616e64732f3531322f39315f446973636f72645f6c6f676f5f6c6f676f732d3531322e706e67" />][i]
 
-[<img align="left" alt="Adobe XD" width="35px" src="https://camo.githubusercontent.com/73fdb461f704939668ec688c0e78b801cd5dd742c77e19b0bcc4284be5137158/68747470733a2f2f63646e2e6272616e64666f6c6465722e696f2f35483434324f33572f61732f706c3534366a2d376c65387a6b2d346e7a7a73312f536c61636b5f4d61726b5f5765622e706e67" />][ii]
+[<img align="left" alt="Adobe XD" width="50px" src="https://camo.githubusercontent.com/73fdb461f704939668ec688c0e78b801cd5dd742c77e19b0bcc4284be5137158/68747470733a2f2f63646e2e6272616e64666f6c6465722e696f2f35483434324f33572f61732f706c3534366a2d376c65387a6b2d346e7a7a73312f536c61636b5f4d61726b5f5765622e706e67" />][ii]
 
 [<img align="left" alt="Adobe XD" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />][iii]
 
