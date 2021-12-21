@@ -65,7 +65,7 @@ I'm a Software Developer from Turkey
 
 [<img align="left" alt="Adobe XD" width="65px" src="https://www.vincenzoracca.com/images/spring.png" />][iiiii]
 
-[<img align="left" alt="Adobe XD" width="65px" src="https://robertkaramagi.files.wordpress.com/2018/10/android-studio1.jpg?w=300&h=225" />][iiiiii]
+[<img align="left" alt="Adobe XD" width="65px" src="https://www.truncgil.com.tr/file/2021/07/android_studio.png" />][iiiiii]
 
 [<img align="left" alt="Adobe XD" width="55px" src="https://www.apmmusic.com/sites/default/files/styles/blog/public/images/blog/blog_unity.jpg?itok=hlW02Twf" />][iiiiiii]
 
