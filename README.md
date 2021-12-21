@@ -30,7 +30,7 @@ I'm a Software Developer from Turkey
 
 ### 🔧 Languages and Technologies:
 
-[<img align="left" alt="Visual Studio Code" width="58px" src="https://mpng.subpng.com/20180824/izg/kisspng-java-development-kit-oracle-corporation-programmin-java-development-services-and-programming-help-5b7fb1a9a789e7.8654124115350952096862.jpg" />][vsCode]
+[<img align="left" alt="Visual Studio Code" width="58px" src="https://toppng.com/uploads/preview/java-logo-11609365784e4gmvr3iyr.png" />][vsCode]
 [<img align="left" alt="Git" width="24px" src="https://camo.githubusercontent.com/e5f1cbf59a8752f8a31ba28ea3b788daf4c188a84870865acfc16c5567bfd5ce/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f432f632d73686172702d632d6c6f676f2d303246313737313442412d7365656b6c6f676f2e636f6d2e706e67" />][git]
 
 [<img align="left" alt="Flutter" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][flutter]
