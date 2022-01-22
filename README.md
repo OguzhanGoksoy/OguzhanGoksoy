@@ -4,7 +4,7 @@ I'm a Software Developer from Turkey
 
 
 
-🌱 I’m currently learning  C++ , Java , C# , Python , Javascript , Dart etc.
+🌱 Currently C++ , Java , C# , Python , Javascript , Dart , Cloud security , Penetration Testing , etc. I'm learning.
 
 
 
