@@ -52,6 +52,8 @@ I'm a Software Developer from Turkey
 <br>
 [<img align="left" alt="Adobe XD" width="60px" src="https://www.armbian.com/wp-content/uploads/2018/03/logo2.png" />][armbian]
 [<img align="left" alt="Adobe XD" width="25px" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" />][cp]
+[<img align="left" alt="Adobe XD" width="25px" src="https://www.offensive-security.com/wp-content/uploads/2015/05/kali.png" />][kali]
+
 <br />
 <br>
 <br />
@@ -106,6 +108,7 @@ I'm a Software Developer from Turkey
 [android]: https://www.android.com/intl/tr_tr/
 [php]: https://www.php.net/
 [armbian]: https://www.armbian.com/
+[kali]: https://www.kali.org/
 
 [python]: https://www.python.org/
 [ios]: https://www.w3.org/html/
