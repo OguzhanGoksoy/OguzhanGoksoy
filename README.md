@@ -79,7 +79,7 @@ I'm a Software Developer from Turkey
 
 [<img align="left" alt="Adobe XD" width="80px" src="https://practica.vc/media/988.png" />][iiiiiiiii]
 
-[<img align="left" alt="Adobe XD" width="35px" src="https://cloud.clara.io/img/ClaraLogo.png" />][iiiiiiiiiii]
+[<img align="left" alt="Adobe XD" width="80px" src="https://cloud.clara.io/img/ClaraLogo.png" />][iiiiiiiiiii]
 
 
 
