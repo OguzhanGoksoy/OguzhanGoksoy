@@ -77,7 +77,7 @@ I'm a Software Developer from Turkey
 
 [<img align="left" alt="Adobe XD" width="35px" src="https://play-lh.googleusercontent.com/s-V-4IgEcMbk1ZpEYVzwxW9_wUP-W5hPlG31vlKIPyjPzVkHb9FaqLLxLkLfMwWXnZ0=s180" />][iiiiiiii]
 
-[<img align="left" alt="Adobe XD" width="35px" src="https://play-lh.googleusercontent.com/s-V-4IgEcMbk1ZpEYVzwxW9_wUP-W5hPlG31vlKIPyjPzVkHb9FaqLLxLkLfMwWXnZ0=s180" />][iiiiiiiii]
+[<img align="left" alt="Adobe XD" width="35px" src="https://practica.vc/media/988.png" />][iiiiiiiii]
 
 [<img align="left" alt="Adobe XD" width="35px" src="https://play-lh.googleusercontent.com/s-V-4IgEcMbk1ZpEYVzwxW9_wUP-W5hPlG31vlKIPyjPzVkHb9FaqLLxLkLfMwWXnZ0=s180" />][iiiiiiiiiii]
 
