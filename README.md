@@ -126,6 +126,6 @@ I'm a Software Developer from Turkey
 [iiiiii]: https://developer.android.com/studio
 [iiiiiii]: https://unity.com/
 [iiiiiiii]: https://www.thingiverse.com/gfdsal09/designs
-[iiiiiiiii]: https://www.thingiverse.com/gfdsal09/designs
+[iiiiiiiii]: https://www.cgtrader.com/oguzhangoksoy
 [iiiiiiiiiii]: https://www.thingiverse.com/gfdsal09/designs
 
