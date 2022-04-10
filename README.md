@@ -79,7 +79,7 @@ I'm a Software Developer from Turkey
 
 [<img align="left" alt="Adobe XD" width="80px" src="https://practica.vc/media/988.png" />][iiiiiiiii]
 
-[<img align="left" alt="Adobe XD" width="35px" src="https://play-lh.googleusercontent.com/s-V-4IgEcMbk1ZpEYVzwxW9_wUP-W5hPlG31vlKIPyjPzVkHb9FaqLLxLkLfMwWXnZ0=s180" />][iiiiiiiiiii]
+[<img align="left" alt="Adobe XD" width="35px" src="https://cloud.clara.io/img/ClaraLogo.png" />][iiiiiiiiiii]
 
 
 
@@ -127,5 +127,5 @@ I'm a Software Developer from Turkey
 [iiiiiii]: https://unity.com/
 [iiiiiiii]: https://www.thingiverse.com/gfdsal09/designs
 [iiiiiiiii]: https://www.cgtrader.com/oguzhangoksoy
-[iiiiiiiiiii]: https://www.thingiverse.com/gfdsal09/designs
+[iiiiiiiiiii]: https://cloud.clara.io/user/OguzhanGoksoy
 
