@@ -79,7 +79,7 @@ I'm a Software Developer from Turkey
 
 [<img align="left" alt="Adobe XD" width="35px" src="https://play-lh.googleusercontent.com/s-V-4IgEcMbk1ZpEYVzwxW9_wUP-W5hPlG31vlKIPyjPzVkHb9FaqLLxLkLfMwWXnZ0=s180" />][iiiiiiiii]
 
-[<img align="left" alt="Adobe XD" width="35px" src="https://play-lh.googleusercontent.com/s-V-4IgEcMbk1ZpEYVzwxW9_wUP-W5hPlG31vlKIPyjPzVkHb9FaqLLxLkLfMwWXnZ0=s180" />][iiiiiiiiii]
+[<img align="left" alt="Adobe XD" width="35px" src="https://play-lh.googleusercontent.com/s-V-4IgEcMbk1ZpEYVzwxW9_wUP-W5hPlG31vlKIPyjPzVkHb9FaqLLxLkLfMwWXnZ0=s180" />][iiiiiiiiiii]
 
 
 
@@ -126,4 +126,6 @@ I'm a Software Developer from Turkey
 [iiiiii]: https://developer.android.com/studio
 [iiiiiii]: https://unity.com/
 [iiiiiiii]: https://www.thingiverse.com/gfdsal09/designs
+[iiiiiiiii]: https://www.thingiverse.com/gfdsal09/designs
+[iiiiiiiiii]: https://www.thingiverse.com/gfdsal09/designs
 
