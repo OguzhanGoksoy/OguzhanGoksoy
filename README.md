@@ -32,7 +32,7 @@ I'm a Software Developer from Turkey
 
 ### 🔧 Languages and Technologies:
 [<img align="left" alt="Visual Studio Code" width="75px" src="https://i0.wp.com/thequill.in/wp-content/uploads/2020/03/Java.png?fit=400%2C197&ssl=1" />][vsCode]
-[<img align="left" alt="Git" width="24px" src="https://www.freecodecamp.org/news/content/images/size/w2000/2024/03/csharp2.png" />][git]
+[<img align="left" alt="Git" width="40px" src="https://www.freecodecamp.org/news/content/images/size/w2000/2024/03/csharp2.png" />][git]
 
 [<img align="left" alt="Flutter" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][flutter]
 [<img align="left" alt="Ios" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>][ios]
