@@ -65,9 +65,9 @@ I'm a Software Developer from Turkey
 
 [<img align="left" alt="Adobe XD" width="45px" src="https://a.slack-edge.com/3d92b39/marketing/img/nav/slack-salesforce-logo-nav-black@2x.png" />][ii]
 
-[<img align="left" alt="Adobe XD" width="35px" src="https://i.pcmag.com/imagery/reviews/04C2m2ye5UfXyb5x5WWIsZ4-19.fit_lim.size_1050x591.v1625759628.png" />][iii]
+[<img align="left" alt="Adobe XD" width="35px" src="https://i.pcmag.com/imagery/reviews/04C2m2ye5UfXyb5x5WWIsZ4-19.fit_lim.size_1050x591.v1625759628.png" />][iiii]
 
-[<img align="left" alt="Adobe XD" width="35px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ6Mbr87kHrnx3Y_y3APohOS0X8jBeQtMCiTjbrdxC2r770Obxq8TNEPw7oJf7ehZ4-MWPV2BUD64ViFDs5AOI1-_HREGdQy-xmFsOsSGjZnpvIQKXCQuDUrQ950PG-JUQuNAu9Fw1kq8/s0/Trello+Logo+-+Download+Free+Vector+PNG.png" />][iiii]
+[<img align="left" alt="Adobe XD" width="35px" src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-64.svg" />][iii]
 
 [<img align="left" alt="Adobe XD" width="65px" src="https://www.vincenzoracca.com/images/spring.png" />][iiiii]
 
