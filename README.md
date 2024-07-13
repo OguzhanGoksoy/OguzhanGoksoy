@@ -63,7 +63,7 @@ I'm a Software Developer from Turkey
 
 [<img align="left" alt="Adobe XD" width="65px" src="https://indcor.eu/wp-content/uploads/2022/02/discord.png" />][i]
 
-[<img align="left" alt="Adobe XD" width="45px" src="https://a.slack-edge.com/3d92b39/marketing/img/nav/slack-salesforce-logo-nav-black@2x.png" />][ii]
+[<img align="left" alt="Adobe XD" width="60px" src="https://a.slack-edge.com/3d92b39/marketing/img/nav/slack-salesforce-logo-nav-black@2x.png" />][ii]
 
 [<img align="left" alt="Adobe XD" width="35px" src="https://i.pcmag.com/imagery/reviews/04C2m2ye5UfXyb5x5WWIsZ4-19.fit_lim.size_1050x591.v1625759628.png" />][iiii]
 
