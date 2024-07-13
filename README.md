@@ -22,7 +22,7 @@ I'm a Software Developer from Turkey
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="bionluk | Bionluk" width="24px" src="https://camo.githubusercontent.com/d8d9b479c7ac8b63d98c203f535295986cbd27e69ea53851ef790dd700b96408/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65662f537461636b5f4f766572666c6f775f69636f6e2e7376672f37363870782d537461636b5f4f766572666c6f775f69636f6e2e7376672e706e67](https://play-lh.googleusercontent.com/XDKGzDD_jjY_KrqZg3COTdV9oW5e4lZjgOPGP07aOIaNsCqNdvcmVrocc7XFr01PdR0P=w480-h960)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0XbRYqyGYDckilxaTUMD-K1rE4yqELtjke2aIvktzYa9iILk4BB7DSwJvY8IbQ4MnpYe1bmGm31GXFnqFChOu4SC2QCpy86fU5YfnSgrTzbmQmjHDiVXh9r4Ri_5oGFdPdPANXfKVDCny/s320/photo.jpg " />][bionluk]
+[<img align="left" alt="bionluk | Bionluk" width="24px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0XbRYqyGYDckilxaTUMD-K1rE4yqELtjke2aIvktzYa9iILk4BB7DSwJvY8IbQ4MnpYe1bmGm31GXFnqFChOu4SC2QCpy86fU5YfnSgrTzbmQmjHDiVXh9r4Ri_5oGFdPdPANXfKVDCny/s320/photo.jpg" />][bionluk]
 [<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 [<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
 
