@@ -46,7 +46,7 @@ I'm a Software Developer from Turkey
 [<img align="left" alt="Android" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
 [<img align="left" alt="Adobe XD" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][xd]
 [<img align="left" alt="Adobe XD" width="50px" src="https://i0.wp.com/teknohisar.com/wp-content/uploads/2017/10/database.png?fit=600%2C315&ssl=1" />][sql]
-[<img align="left" alt="Adobe XD" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/271px-SQLite370.svg.png" />][sqllit]
+[<img align="left" alt="Adobe XD" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/271px-SQLite370.svg.png" />][sqllit]
 [<img align="left" alt="Adobe XD" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" />][php]
 <br />
 <br>
