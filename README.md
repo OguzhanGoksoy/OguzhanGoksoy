@@ -61,7 +61,7 @@ I'm a Software Developer from Turkey
 ## 👩‍💻📱 Tools:
 [<img align="left" alt="Adobe XD" width="70px" src="https://miro.medium.com/v2/resize:fit:720/0*JQ3INI7sdhkF1T3R.png" />][vicual]
 
-[<img align="left" alt="Adobe XD" width="35px" src="https://indcor.eu/wp-content/uploads/2022/02/discord.png" />][i]
+[<img align="left" alt="Adobe XD" width="65px" src="https://indcor.eu/wp-content/uploads/2022/02/discord.png" />][i]
 
 [<img align="left" alt="Adobe XD" width="45px" src="https://a.slack-edge.com/3d92b39/marketing/img/nav/slack-salesforce-logo-nav-black@2x.png" />][ii]
 
