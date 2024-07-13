@@ -67,7 +67,7 @@ I'm a Software Developer from Turkey
 
 [<img align="left" alt="Adobe XD" width="35px" src="https://i.pcmag.com/imagery/reviews/04C2m2ye5UfXyb5x5WWIsZ4-19.fit_lim.size_1050x591.v1625759628.png" />][iii]
 
-[<img align="left" alt="Adobe XD" width="35px" src="https://camo.githubusercontent.com/5da402096f63fafffd2d8afacdecf0029aa989c899149f9836c135ab3d130a6d/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f7472656c6c6f2d362d3536393339352e706e67" />][iiii]
+[<img align="left" alt="Adobe XD" width="35px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ6Mbr87kHrnx3Y_y3APohOS0X8jBeQtMCiTjbrdxC2r770Obxq8TNEPw7oJf7ehZ4-MWPV2BUD64ViFDs5AOI1-_HREGdQy-xmFsOsSGjZnpvIQKXCQuDUrQ950PG-JUQuNAu9Fw1kq8/s0/Trello+Logo+-+Download+Free+Vector+PNG.png" />][iiii]
 
 [<img align="left" alt="Adobe XD" width="65px" src="https://www.vincenzoracca.com/images/spring.png" />][iiiii]
 
