@@ -59,7 +59,7 @@ I'm a Software Developer from Turkey
 <br />
 
 ## 👩‍💻📱 Tools:
-[<img align="left" alt="Adobe XD" width="26px" src="https://miro.medium.com/v2/resize:fit:1400/0*SGbxc-dbU0gyaVWm.jpg7" />][vicual]
+[<img align="left" alt="Adobe XD" width="26px" src="https://miro.medium.com/v2/resize:fit:720/0*JQ3INI7sdhkF1T3R.png" />][vicual]
 
 [<img align="left" alt="Adobe XD" width="35px" src="https://camo.githubusercontent.com/9197204cb5fe8007252fd5b2b6cc47b9c4318e16836fe645eccd35941b9ecb9c/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d616e642d6272616e64732f3531322f39315f446973636f72645f6c6f676f5f6c6f676f732d3531322e706e67" />][i]
 
