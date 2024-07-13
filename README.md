@@ -52,7 +52,7 @@ I'm a Software Developer from Turkey
 <br>
 [<img align="left" alt="Adobe XD" width="60px" src="https://www.armbian.com/wp-content/uploads/2018/03/logo2.png" />][armbian]
 [<img align="left" alt="Adobe XD" width="25px" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" />][cp]
-[<img align="left" alt="Adobe XD" width="90px" src="https://cdn.wmaraci.com/nedir/Kali-Linux.png" />][kali]
+[<img align="left" alt="Adobe XD" width="40px" src="https://cdn.wmaraci.com/nedir/Kali-Linux.png" />][kali]
 
 <br />
 <br>
