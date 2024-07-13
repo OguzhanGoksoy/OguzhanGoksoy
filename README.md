@@ -65,7 +65,7 @@ I'm a Software Developer from Turkey
 
 [<img align="left" alt="Adobe XD" width="80px" src="https://a.slack-edge.com/3d92b39/marketing/img/nav/slack-salesforce-logo-nav-black@2x.png" />][ii]
 
-[<img align="left" alt="Adobe XD" width="35px" src="https://i.pcmag.com/imagery/reviews/04C2m2ye5UfXyb5x5WWIsZ4-19.fit_lim.size_1050x591.v1625759628.png" />][iiii]
+[<img align="left" alt="Adobe XD" width="50px" src="https://i.pcmag.com/imagery/reviews/04C2m2ye5UfXyb5x5WWIsZ4-19.fit_lim.size_1050x591.v1625759628.png" />][iiii]
 
 [<img align="left" alt="Adobe XD" width="35px" src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-64.svg" />][iii]
 
