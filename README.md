@@ -31,7 +31,7 @@ I'm a Software Developer from Turkey
 <br />
 
 ### 🔧 Languages and Technologies:
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/210px-Java_Logo.svg.png" />][vsCode]
+[<img align="left" alt="Visual Studio Code" width="20px" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/210px-Java_Logo.svg.png" />][vsCode]
 [<img align="left" alt="Git" width="60px" src="https://www.freecodecamp.org/news/content/images/size/w2000/2024/03/csharp2.png" />][git]
 
 [<img align="left" alt="Flutter" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][flutter]
